@@ -7,6 +7,7 @@
 - [Installation](#installation)
 - [Project Structure](#project-structure)
 - [Usage](#usage)
+- [Demo](#demo)
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
@@ -30,25 +31,24 @@ Gimini-Clone is a **React-based web application** built with **Vite** for fast a
 ```bash
 git clone https://github.com/SURESH745/Gemini-Clone.git
 cd Gemini-Clone
-```
 
-### 2. Install Dependencies
 
-```bash
+2. Install Dependencies
+bash
+Copy
+Edit
 npm install
-```
-
-### 3. Run the Development Server
-
-```bash
+3. Run the Development Server
+bash
+Copy
+Edit
 npm run dev
-```
+The application will run on http://localhost:5173/.
 
-The application will run on [**http://localhost:5173/**](http://localhost:5173/).
-
-## Project Structure
-
-```
+Project Structure
+pgsql
+Copy
+Edit
 Gimini-Clone/
 ├── public/
 ├── src/
@@ -67,35 +67,28 @@ Gimini-Clone/
 ├── package.json
 ├── README.md
 ├── vite.config.js
-```
+Usage
+Open http://localhost:5173/ in your browser.
+Explore the interface and interact with different components.
+Modify the source code to add new features or customize UI.
+Demo
+Check out the live demo video here:
 
-## Usage
 
-1. Open [**http://localhost:5173/**](http://localhost:5173/) in your browser.
-2. Explore the interface and interact with different components.
-3. Modify the source code to add new features or customize UI.
+👉 Watch the Demo: https://www.youtube.com/watch?v=NTrT9I3CnnI&t=15s
 
-## Future Improvements
-
-- Implement authentication and user accounts
-- Add API integration for real-time data fetching
-- Improve UI/UX with animations and transitions
-- Optimize performance for better load times
-
-## Contributing
-
+Future Improvements
+Implement authentication and user accounts
+Add API integration for real-time data fetching
+Improve UI/UX with animations and transitions
+Optimize performance for better load times
+Contributing
 Contributions are welcome! Follow these steps:
 
-1. Fork this repository.
-2. Create a new branch (`feature-xyz`).
-3. Commit your changes.
-4. Push the branch and create a Pull Request.
-
-## License
-
-This project is licensed under the **MIT License**.
-
----
-
-Made with love by **Gongali Suresh**
+Fork this repository.
+Create a new branch (feature-xyz).
+Commit your changes.
+Push the branch and create a Pull Request.
+License
+This project is licensed under the MIT License.
 
