@@ -32,23 +32,17 @@ Gimini-Clone is a **React-based web application** built with **Vite** for fast a
 git clone https://github.com/SURESH745/Gemini-Clone.git
 cd Gemini-Clone
 
-
 2. Install Dependencies
-bash
-Copy
-Edit
 npm install
+
 3. Run the Development Server
-bash
-Copy
-Edit
+
+
 npm run dev
 The application will run on http://localhost:5173/.
 
 Project Structure
-pgsql
-Copy
-Edit
+
 Gimini-Clone/
 ├── public/
 ├── src/
@@ -67,28 +61,6 @@ Gimini-Clone/
 ├── package.json
 ├── README.md
 ├── vite.config.js
+
 Usage
 Open http://localhost:5173/ in your browser.
-Explore the interface and interact with different components.
-Modify the source code to add new features or customize UI.
-Demo
-Check out the live demo video here:
-
-
-👉 Watch the Demo: https://www.youtube.com/watch?v=NTrT9I3CnnI&t=15s
-
-Future Improvements
-Implement authentication and user accounts
-Add API integration for real-time data fetching
-Improve UI/UX with animations and transitions
-Optimize performance for better load times
-Contributing
-Contributions are welcome! Follow these steps:
-
-Fork this repository.
-Create a new branch (feature-xyz).
-Commit your changes.
-Push the branch and create a Pull Request.
-License
-This project is licensed under the MIT License.
-
