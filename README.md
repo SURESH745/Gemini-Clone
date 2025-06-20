@@ -23,6 +23,10 @@ Gimini-Clone is a **React-based web application** built with **Vite** for fast a
 - State management using Context API
 - Responsive design for seamless user experience
 
+## 🔗 Live Demo
+
+👉 **[View Live Project](https://super-bunny-ce95b3.netlify.app/)**
+
 ## Installation
 
 ### 1. Clone the Repository
