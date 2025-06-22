@@ -10,7 +10,7 @@
 - [Future Improvements](#future-improvements)
 - [Contributing](#contributing)
 - [License](#license)
-
+ 
 ## Overview
 
 Gimini-Clone is a **React-based web application** built with **Vite** for fast and efficient development. It aims to replicate the functionality and UI of Google's Gemini with a focus on performance and scalability.
